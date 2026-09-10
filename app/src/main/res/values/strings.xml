@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Filmes Favoritos</string>
+    <string name="title_required">Digite o título do filme</string>
+    <string name="director_required">Digite o nome do diretor</string>
+    <string name="directed_by">Direção: %1$s</string>
+    <string name="show_list">Mostrar como lista</string>
+    <string name="show_grid">Mostrar como grade</string>
+</resources>
